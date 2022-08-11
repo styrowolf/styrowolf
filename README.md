@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - pronouns: he/him
 - languages: rust, python, java, dart, javascript
-- working on ride-matching at @poolyapp
-- phoenix tuner analyzer at @ARC6014
+- working on ride-matching at [@poolyapp](https://github.com/poolyapp)
+- phoenix tuner analyzer at [ARC 6014](https://gitlab.com/arc6014)
 - reach me at kurt.oguz@outlook.com
