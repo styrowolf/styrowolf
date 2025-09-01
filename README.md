@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- studying (hopefully) computer engineering at dartmouth college
+- student @ dartmouth college
 - pronouns: he/him
 - languages: rust, python, java, dart, typescript, javascript, go
 - alumni [@arc6014](https://github.com/arc6014)
